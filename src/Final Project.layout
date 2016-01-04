@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_layout_file>
+<CodeBlocks_layout_file>
+	<File name="CEventReceiver.cpp" open="1" top="0">
+		<Cursor position="419" topLine="0"/>
+	</File>
+	<File name="include\CEventReceiver.h" open="0" top="0">
+		<Cursor position="456" topLine="0"/>
+	</File>
+	<File name="include\FinalProject.h" open="1" top="0">
+		<Cursor position="254" topLine="0"/>
+	</File>
+	<File name="main.cpp" open="1" top="1">
+		<Cursor position="5681" topLine="140"/>
+	</File>
+	<Expand folder="/Sources"/>
+</CodeBlocks_layout_file>
